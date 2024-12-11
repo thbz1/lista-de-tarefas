@@ -1,0 +1,2 @@
+## Lista de Tarefas
+A Lista de Tarefas, criada com jQuery para fins educacionais, permite ao usuário adicionar itens e visualizar uma lista gerada automaticamente. Ao concluir uma atividade, basta clicar sobre ela para riscar da lista.
